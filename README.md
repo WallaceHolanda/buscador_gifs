@@ -1,10 +1,12 @@
 # Buscador de Gifs
 
+<img src= "img/git_divulg.png">
+
 <h2>🔎 Tecnologias Utilizadas<h2>
 <ul>
   <a href="https://dart.dev/get-dart"><li>Dart</li></a>
   <a href="https://flutter.dev/"><li>Flutter</li></a>
-  <a href="#"><li>API Giphy</li></a>
+  <a href="https://developers.giphy.com/docs/sdk/"><li>API Giphy</li></a>
 </ul>
 
 <h2>💻 Sobre o Projeto<h2>
